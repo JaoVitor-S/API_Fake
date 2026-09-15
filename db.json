@@ -2,8 +2,13 @@
   "users": [
     {
       "id": "1",
-      "username": "aluno@gmail.com",
-      "password": "123"
+      "username": "aluno1gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "aluno2@gmail.com",
+      "password": "654321"
     }
   ]
 }
